@@ -1,0 +1,22 @@
+{
+    "name": "twister-js",
+    "version": "0.1.0",
+    "description": "JS library for interacting with Twister Cash contracts",
+    "main": "index.js",
+    "repository": "https://github.com/Nobody-Labs/twister-js",
+    "author": "Nobody-Labs",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "@ethersproject/abi": "^5.6.1",
+        "axios": "^0.25.0",
+        "circom": "^0.5.45",
+        "circomlib": "^0.5.2",
+        "dotenv": "^10.0.0",
+        "ethers": "^5.4.0",
+        "ethers-multicall": "^0.2.2",
+        "ffjavascript": "^0.2.37",
+        "fs": "^0.0.1-security",
+        "snarkjs": "^0.4.6"
+    }
+}
